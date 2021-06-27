@@ -33,12 +33,6 @@
 %
 %
 %
-% Hamdi Boukamcha
-% Tunisia
-% 4081
-% Sousse
-% email  hamdouchhd@hotmail.com
-% mobile +216 50674269
 % web site http://matlab-recognition-code.com
 %
 %
